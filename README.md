@@ -8,18 +8,18 @@ NB: Since some graphs need text preprocessing (renumbering the nodes mainly), yo
 
 The data needs to be stored in a `data` folder at the root directory.
 
-##TP1:
+## TP1:
 `degrees.c`
 `bfs.c`
 `count_triangles.c`
 
-##TP2:
+## TP2:
 `pagerank.c`
 `kcore.c`
 
-##TP3:
+## TP3:
 `community.c`
 
-##Utilitaries:
+## Utilitaries:
 `file.c`
 `utils.c`
